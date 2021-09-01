@@ -1,0 +1,23 @@
+{
+  "name": "pezbot",
+  "version": "1.0.0",
+  "description": "Simple bot for playing external audio in Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peytonratliff/pezBot.git"
+  },
+  "author": "github.com/peytonratliff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peytonratliff/pezBot/issues"
+  },
+  "homepage": "https://github.com/peytonratliff/pezBot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "node": "16.6.1"
+  }
+}
